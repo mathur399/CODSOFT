@@ -46,7 +46,7 @@ TASK 3
 
 ATM INTERFACE
 
-1.Create a class to represent the ATM machine.
+ 1.Create a class to represent the ATM machine.
 
 2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
 checking the balance.
